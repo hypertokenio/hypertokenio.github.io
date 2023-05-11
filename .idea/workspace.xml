@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81be5101-0204-4b88-9ab4-eebdde5441ee" name="Changes" comment="" />
+    <list default="true" id="81be5101-0204-4b88-9ab4-eebdde5441ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Hype_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.a3624230.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.a3624230.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/787.dff5ed70.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/787.dff5ed70.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/Bangers-Regular.3463d59480ad41fc1d5e.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/Hype_Icon.9b6e4e931dc50274850b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/Hype_Mascot.2d39df3c7bbba692fde3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/MontreuxJS-Rg.ce855b720fd394cb5f62.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/MontreuxJS-XBd.d221d7950e8a34343d5a.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/etherscan.751e138f666f0e2bfa54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/telegram.d34e967218119e55660c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/tokenomics.e066a3a6365f39878a06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/twitter.ec800d565fd941ce39af.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +76,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Codes/hypertoken",
+    "last_opened_file_path": "D:/Codes/hypertoken/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,6 +113,7 @@
       <workItem from="1683815132794" duration="67000" />
       <workItem from="1683815217166" duration="858000" />
       <workItem from="1683816186738" duration="130000" />
+      <workItem from="1683816442908" duration="1521000" />
     </task>
     <task id="LOCAL-00001" summary="Add landing page">
       <created>1683811888619</created>
@@ -127,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683816273948</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add landing page">
+      <created>1683816512267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683816512267</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
