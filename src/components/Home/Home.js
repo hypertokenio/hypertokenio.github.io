@@ -18,7 +18,7 @@ function Home(props) {
             {/* Navbar*/}
             <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-color-1">
                 <div className="container py-2">
-                    <a className="navbar-brand d-flex align-items-center" href="https://hypertoken.io">
+                    <a className="navbar-brand d-flex align-items-center" href="https://hypertokenio.github.io">
                         <img src={icon} alt="HYPER Token" width={60} />
                         <p className="bangers ps-4 mb-0 font-size-180">HYPER TOKEN</p>
                     </a>
