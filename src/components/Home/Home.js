@@ -45,7 +45,7 @@ function Home(props) {
                                 <a className="nav-link text-white font-size-110" href="#roadmap">roadmap</a>
                             </li>
                             <li className="nav-item font-size-90 font-size-xl-100 px-2 ps-xl-3">
-                                <a className="nav-link text-white font-size-110 btn-custom-1 px-4 text-center" href="https://app.uniswap.org/#/swap" target="_blank" rel="noreferrer">buy now</a>
+                                <a className="nav-link text-white font-size-110 btn-custom-1 px-4 text-center" href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x54D8517985E74D5708fe45621C8E945C9e4218B9" target="_blank" rel="noreferrer">buy now</a>
                             </li>
                         </ul>
                     </div>
@@ -80,7 +80,7 @@ function Home(props) {
                                             </a>
                                         </div>
                                         <div className="col-4 col-lg-3 px-3 px-lg-3 px-xl-4">
-                                            <a href="https://etherscan.io/address/" target="_blank" rel="noreferrer">
+                                            <a href="https://etherscan.io/token/0x54d8517985e74d5708fe45621c8e945c9e4218b9" target="_blank" rel="noreferrer">
                                                 <img src={etherscan} className="w-100" alt="etherscan" />
                                             </a>
                                         </div>
@@ -154,10 +154,10 @@ function Home(props) {
                     <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4">Buying HYPER Token made easy:</p>
 
                     <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 1:</span> Install a wallet like MetaMask or Trust Wallet.</p>
-                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 2:</span> Buy Ethereum (ETH) on a crypto exchange and sent it to your wallet.</p>
-                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 3:</span> Go to Uniswap and connect your wallet.</p>
+                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 2:</span> Buy Ethereum (ETH) on a crypto exchange and send it to your wallet.</p>
+                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 3:</span> Go to <a href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x54D8517985E74D5708fe45621C8E945C9e4218B9" className="link-color-1" target="_blank" rel="noreferrer" style={{"textDecoration":"underline"}}>Uniswap</a> and connect your wallet.</p>
                     <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4"><span className="montreuxjs-xbd me-2">Step 4:</span> Choose Hyper Token ($HYPER) and input the amount you want.</p>
-                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4" style={{"wordBreak":"break-word"}}>Use this token address:<br/> <span className="font-size-80 font-size-md-100">0xeC20607aa654D823DD01BEB8780a44863c57Ed07</span></p>
+                    <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-4" style={{"wordBreak":"break-word"}}>Use this token address:<br/> <a href="https://etherscan.io/token/0x54d8517985e74d5708fe45621c8e945c9e4218b9" target="_blank" rel="noreferrer" className="font-size-80 font-size-md-100 link-color-1">0x54d8517985e74d5708fe45621c8e945c9e4218b9</a></p>
                     <p className="text-color-1 font-size-130 font-size-sm-140 font-size-md-120 font-size-lg-160 font-size-xl-180 line-height-120 mb-5"><span className="montreuxjs-xbd me-2">Step 5:</span> Check transaction details, confirm the swap, and voila - Hyper Token is yours!</p>
 
                     <p className="text-center text-color-1 font-size-110 font-size-sm-120 font-size-md-100 font-size-lg-120 font-size-xl-140 line-height-120 fst-italic mb-0">*Keep in mind that trading fees and slippage might affect your purchase.</p>
@@ -232,7 +232,7 @@ function Home(props) {
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Email: <a href="mailto:hypertokenmeme@gmail.com" className="montreuxjs-xbd link-color-1">hypertokenmeme@gmail.com</a></p>
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Twitter: <a href="https://twitter.com/HyperTokenMeme" target="_blank" rel="noreferrer" className="montreuxjs-xbd link-color-1">@HyperTokenMeme</a></p>
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Telegram: <a href="https:/t.me/HyperTokenMeme" target="_blank" rel="noreferrer" className="montreuxjs-xbd link-color-1">https:/t.me/HyperTokenMeme</a></p>
-                            <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-5 pb-4" style={{"wordBreak":"break-word"}}>Find contract info here:<br/> <span className="font-size-90">0xeC20607aa654D823DD01BEB8780a44863c57Ed07</span></p>
+                            <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-5 pb-4" style={{"wordBreak":"break-word"}}>Find contract info here:<br/> <a href="https://etherscan.io/token/0x54d8517985e74d5708fe45621c8e945c9e4218b9" target="_blank" rel="noreferrer" className="font-size-90 link-color-1">0x54d8517985e74d5708fe45621c8e945c9e4218b9</a></p>
 
                             <div className="row justify-content-center justify-content-md-start">
                                 <div className="col-10 col-sm-7 col-md-11 col-lg-12 col-xl-11 col-xxl-10">

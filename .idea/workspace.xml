@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81be5101-0204-4b88-9ab4-eebdde5441ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/og.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Hype_Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.a3624230.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.a3624230.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/787.dff5ed70.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/787.dff5ed70.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.7bc6ea43.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Bangers-Regular.3463d59480ad41fc1d5e.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Hype_Icon.9b6e4e931dc50274850b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Hype_Mascot.2d39df3c7bbba692fde3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/MontreuxJS-Rg.ce855b720fd394cb5f62.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/MontreuxJS-XBd.d221d7950e8a34343d5a.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/etherscan.751e138f666f0e2bfa54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/telegram.d34e967218119e55660c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/tokenomics.e066a3a6365f39878a06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/twitter.ec800d565fd941ce39af.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,23 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Codes/hypertoken/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codes/hypertoken/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Codes\hypertoken\public" />
@@ -119,6 +87,7 @@
       <workItem from="1683815217166" duration="858000" />
       <workItem from="1683816186738" duration="130000" />
       <workItem from="1683816442908" duration="1521000" />
+      <workItem from="1683960875556" duration="2791000" />
     </task>
     <task id="LOCAL-00001" summary="Add landing page">
       <created>1683811888619</created>
