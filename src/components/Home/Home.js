@@ -75,7 +75,7 @@ function Home(props) {
                                             </a>
                                         </div>
                                         <div className="col-4 col-lg-3 px-3 px-lg-3 px-xl-4">
-                                            <a href="https:/t.me/HyperTokenMeme" target="_blank" rel="noreferrer">
+                                            <a href="https://t.me/HyperTokenMeme" target="_blank" rel="noreferrer">
                                                 <img src={telegram} className="w-100" alt="telegram" />
                                             </a>
                                         </div>
@@ -231,7 +231,7 @@ function Home(props) {
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Got questions or need help? Contact us:</p>
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Email: <a href="mailto:hypertokenmeme@gmail.com" className="montreuxjs-xbd link-color-1">hypertokenmeme@gmail.com</a></p>
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Twitter: <a href="https://twitter.com/HyperTokenMeme" target="_blank" rel="noreferrer" className="montreuxjs-xbd link-color-1">@HyperTokenMeme</a></p>
-                            <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Telegram: <a href="https:/t.me/HyperTokenMeme" target="_blank" rel="noreferrer" className="montreuxjs-xbd link-color-1">https:/t.me/HyperTokenMeme</a></p>
+                            <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-3">Telegram: <a href="https://t.me/HyperTokenMeme" target="_blank" rel="noreferrer" className="montreuxjs-xbd link-color-1">https://t.me/HyperTokenMeme</a></p>
                             <p className="text-center text-md-start text-color-1 font-size-sm-120 font-size-xl-130 font-size-xxl-140 mb-5 pb-4" style={{"wordBreak":"break-word"}}>Find contract info here:<br/> <a href="https://etherscan.io/token/0x54d8517985e74d5708fe45621c8e945c9e4218b9" target="_blank" rel="noreferrer" className="font-size-90 link-color-1">0x54d8517985e74d5708fe45621c8e945c9e4218b9</a></p>
 
                             <div className="row justify-content-center justify-content-md-start">
@@ -243,7 +243,7 @@ function Home(props) {
                                             </a>
                                         </div>
                                         <div className="col-4 col-lg-3 px-3 px-lg-3 px-xl-4">
-                                            <a href="https:/t.me/HyperTokenMeme" target="_blank" rel="noreferrer">
+                                            <a href="https://t.me/HyperTokenMeme" target="_blank" rel="noreferrer">
                                                 <img src={telegram} className="w-100" alt="telegram" />
                                             </a>
                                         </div>
