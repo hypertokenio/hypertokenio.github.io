@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81be5101-0204-4b88-9ab4-eebdde5441ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/public/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,9 @@
       <workItem from="1683816186738" duration="130000" />
       <workItem from="1683816442908" duration="1521000" />
       <workItem from="1683960875556" duration="2791000" />
-      <workItem from="1684123844454" duration="1353000" />
+      <workItem from="1684123844454" duration="3169000" />
+      <workItem from="1684164190298" duration="981000" />
+      <workItem from="1684301351330" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="Add landing page">
       <created>1683811888619</created>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684124608050</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update CNAME">
+      <created>1684125746286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684125746286</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +192,8 @@
     <MESSAGE value="Add landing page" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Update telegram links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update telegram links" />
+    <MESSAGE value="Update CNAME" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CNAME" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
